@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JuampiAcosta/MVCJuanPabloAcosta/issues"
   },
-  "homepage": "https://github.com/JuampiAcosta/MVCJuanPabloAcosta#readme"
+  "homepage": "https://github.com/JuampiAcosta/MVCJuanPabloAcosta#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
