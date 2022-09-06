@@ -1,0 +1,20 @@
+{
+  "name": "mvcjuanpabloacosta",
+  "version": "1.0.0",
+  "description": "Este repositorio es una muestra del modelo,vista y controlador",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuampiAcosta/MVCJuanPabloAcosta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuampiAcosta/MVCJuanPabloAcosta/issues"
+  },
+  "homepage": "https://github.com/JuampiAcosta/MVCJuanPabloAcosta#readme"
+}
